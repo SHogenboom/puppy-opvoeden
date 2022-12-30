@@ -1,0 +1,14 @@
+# Author: Sally A.M. Hogenboom
+# https://github.com/SHogenboom
+# Built for private use.
+project:
+  type: website
+  output-dir: "docs"
+website:
+  title: "Puppy"
+
+format:
+  html:
+    theme: cosmo
+    toc-location: left
+    minimal: true
